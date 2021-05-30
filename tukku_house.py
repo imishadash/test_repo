@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/home/aj/anaconda3/bin/python
 import turtle
 import sys, tty, termios
 
@@ -60,7 +60,7 @@ t.end_fill()
   
 # for door and
 # windows
-t.right(90)
+t.right(135)
 t.forward(400)
 t.left(90)
 t.forward(50)
